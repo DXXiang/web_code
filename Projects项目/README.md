@@ -1,2 +1,2 @@
-╢Ф╥евежа╫Яп╢╧Щ╣дкЫсп╩Р╨ц╩Р╡Н╣д©ниХ║╒оНд©║ё
+Е╜≤Ф■╬Г²─Х┤ЁД╩┼Е├≥Х©┤Г └Ф┴─Ф°┴Ф┬√Е╔╫Ф┬√Е╥╝Г └Х╞╬Х╝╬Д╩╔Е▐┼И║╧Г⌡╝Ц─┌                   
 Store all curriculum and other projects I have writen no matter how bad or how good they are.
