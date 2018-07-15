@@ -29,6 +29,7 @@ function rot13(message){
 ```
 
 ### 简单写法
+> 又看了下，酷炫，酷炫，诶这方法贼酷炫
 
 ``` javascript
 function rot13(message) {
@@ -37,7 +38,3 @@ function rot13(message) {
   return message.replace(/[a-z]/gi, c => b[a.indexOf(c)])
 }
 ```
-
-
-
-
