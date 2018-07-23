@@ -19,7 +19,7 @@ alert([1,2,3,4,5].map(addOne.pipe(square)));
 
 ```
 
-###简单写法(emmm,bind)
+###简单写法(emmm,bind)，因为有bind所以可以直接把this传进去
 ```javascript
 Function.prototype.pipe = function(fun) {
   return function(param) {
@@ -27,5 +27,3 @@ Function.prototype.pipe = function(fun) {
   }.bind(this);
 };
 ```
-
-
